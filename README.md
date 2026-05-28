@@ -67,8 +67,6 @@ We would like to thank the developers and authors of the following open-source r
 - **PyG (PyTorch Geometric)** & **RDKit** - For molecular graph representation and cheminformatics
 - **Biopython** - For sequence alignment and parsing
 
-*(Please add the corresponding GitHub links for the newly added tools if necessary)*
-
 ## License <a name="license"></a>
 
 This source code is licensed under the [MIT License](LICENSE).
