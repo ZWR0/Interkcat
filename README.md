@@ -30,8 +30,6 @@ This directory hosts all the input datasets, generated outputs, evaluation metri
 - **Output & Analysis** (`model_test_performance.csv`, `Statistical_Analysis.csv`, `single_wt_evaluation_results.csv`, etc.): Store the quantitative results, early stopping logs, and rigorous statistical evaluations produced during model training and testing.
 - **`hyperparameters.xlsx`**: Logs the hyperparameter optimization details utilized during the model tuning process.
 
-*(Note: The root directory also includes `.gitattributes`, the graphical abstract `Figure.png`, and the `LICENSE` file.)*
-
 ## Reproducing publication results <a name="reproducibility"></a>
 
 We provide Jupyter Notebooks containing the complete codebase required to reproduce the results presented in our publication. 
