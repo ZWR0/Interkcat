@@ -38,7 +38,7 @@ We provide Jupyter Notebooks containing the complete codebase required to reprod
 
 To reproduce our results, please clone this repository to your local machine and ensure you have sufficient GPU resources to complete the full training and evaluation pipeline.
 
-```bash```
+```bash
 git clone [https://github.com/YourUsername/YourRepositoryName.git](https://github.com/YourUsername/YourRepositoryName.git)
 cd YourRepositoryName
 
