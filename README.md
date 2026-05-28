@@ -40,14 +40,18 @@ To reproduce our results, please clone this repository to your local machine and
 
 ```bash
 git clone https://github.com/ZWR0/Interkcat.git
+```
+```bash
 cd Interkact
 ```
 
-# Create and activate the conda environment
+### Create and activate the conda environment
+```bash
 conda env create -f environment.yaml
+```
+```bash
 conda activate interkcat_env
-
-Due to the CUDA memory limitations of the online workspace, please execute the code blocks sequentially or download the repository to a local machine with sufficient GPU resources to complete the full reproduction.
+```
 
 ⚠️ Critical Note on Library Versions: It is absolutely crucial to use the exact library versions specified in environment.yaml. In particular, mismatched versions of the transformers library will lead to architectural inconsistencies and cause errors when loading our pre-trained model weights. Please ensure your environment strictly follows the provided configuration.
 **Important Note:** To obtain identical results, it is crucial that the library versions (e.g., transformers, torch) exactly match those specified in the environment configurations.
