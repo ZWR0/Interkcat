@@ -40,7 +40,7 @@ To reproduce our results, please clone this repository to your local machine and
 
 ```bash
 git clone [https://github.com/YourUsername/YourRepositoryName.git](https://github.com/YourUsername/YourRepositoryName.git)
-cd YourRepositoryName
+cd YourRepositoryName```
 
 Due to the CUDA memory limitations of the online workspace, please execute the code blocks sequentially or download the repository to a local machine with sufficient GPU resources to complete the full reproduction. 
 
