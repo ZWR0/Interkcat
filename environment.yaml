@@ -1,0 +1,27 @@
+name: interkcat_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.4
+  - ca-certificates=2026.4.22
+  - certifi=2026.4.22
+  - h5py=3.16.0
+  - jupyter=1.1.1
+  - matplotlib=3.10.9
+  - numpy=2.4.3
+  - openpyxl=3.1.5
+  - openssl=3.6.2
+  - pandas=3.0.2
+  - pyyaml=6.0.3
+  - rdkit=2024.09.2
+  - requests=2.33.1
+  - scikit-learn=1.8.0
+  - scipy=1.17.1
+  - seaborn=0.13.2
+  - sqlalchemy=2.0.49
+  - statsmodels=0.14.6
+  - tqdm=4.67.3
+  - pip:
+    - torch-geometric==2.7.0
+    - transformers==4.57.6
