@@ -53,7 +53,7 @@ conda env create -f environment.yaml
 conda activate interkcat_env
 ```
 
-⚠️ Critical Note on Library Versions: It is absolutely crucial to use the exact library versions specified in environment.yaml. In particular, mismatched versions of the transformers library will lead to architectural inconsistencies and cause errors when loading our pre-trained model weights. Please ensure your environment strictly follows the provided configuration.
+**Critical Note on Library Versions:** It is absolutely crucial to use the exact library versions specified in environment.yaml. In particular, mismatched versions of the transformers library will lead to architectural inconsistencies and cause errors when loading our pre-trained model weights. Please ensure your environment strictly follows the provided configuration.
 
 **Important Note:** To obtain identical results, it is crucial that the library versions (e.g., transformers, torch) exactly match those specified in the environment configurations.
 
