@@ -1,4 +1,4 @@
-# Decoding enzyme–substrate interaction topology enables mechanistic interpretation of catalytic efficiency and mutational outcomes
+# Decoding enzyme–substrate interaction topology reveals principles underlying catalytic efficiency and mutational outcomes
 
 ![Overview of the Interkcat framework](Figure.png)
 
